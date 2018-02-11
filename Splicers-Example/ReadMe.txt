@@ -1,1 +1,1 @@
-This is an excel project showcasing splcers. Program opens a connecteion betteen the Northwind 2007 database and creates a pivotable, charts, and graphs. The graphs are organized into a dashboard and splicers are added to change data views. 
+This is an excel project showcasing splcers. Program opens a connecteion between the Northwind 2007 database and creates a pivotable, charts, and graphs. The graphs are organized into a dashboard and splicers are added to change data views. 
